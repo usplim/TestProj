@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 3426-BE42
+
+ Directory of C:\proj\web
+
+02/28/2010  10:48 AM    <DIR>          .
+02/28/2010  10:48 AM    <DIR>          ..
+02/28/2010  10:48 AM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   3,285,921,792 bytes free
